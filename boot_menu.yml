@@ -1,5 +1,5 @@
 ublue_variants:
-  - label: blue-build/template
+  - label: ebits21/airik-ublue
     ks: /kickstart/ublue-os.ks
     flavors:
-      - label: blue-build/template
+      - label: Airik-ublue
